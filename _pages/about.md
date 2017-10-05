@@ -20,7 +20,7 @@ Hi, I'm a third year majoring in CSE and minoring in Business from the Ohio Stat
 
 
 
-## Notable Features
+## Achievements
 
 - Compatible with Jekyll 3.x and GitHub Pages
 - Support for Jekyll's built-in Sass/SCSS preprocessor
