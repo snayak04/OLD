@@ -13,7 +13,6 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2017-02-14T14:28:13-05:00
 ---
 # UNDER CONSTRUCTION!
 <!---
