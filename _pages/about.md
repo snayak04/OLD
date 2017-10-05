@@ -16,7 +16,7 @@ layouts_gallery:
 last_modified_at: 2017-02-14T14:28:13-05:00
 ---
 # UNDER CONSTRUCTION!
-
+<!---
 
 
 Hi, I'm a third year majoring in CSE and minoring in Business from the Ohio State University. :smile:.
@@ -81,3 +81,5 @@ For even more demo pages check the [posts archive][year-archive].
 ---
 
 Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+
+-->
