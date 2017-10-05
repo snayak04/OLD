@@ -15,6 +15,9 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2017-02-14T14:28:13-05:00
 ---
+# UNDER CONSTRUCTION!
+
+
 
 Hi, I'm a third year majoring in CSE and minoring in Business from the Ohio State University. :smile:.
 
@@ -31,7 +34,7 @@ Hi, I'm a third year majoring in CSE and minoring in Business from the Ohio Stat
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Brazilian Portuguese, Chinese, French, German, Italian, Korean, Nepali (Nepalese), Russian, Spanish, and Turkish
 
-## Demo Pages
+## Current Projects
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
