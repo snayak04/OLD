@@ -1,14 +1,8 @@
 ---
 permalink: /about/
 excerpt: "Swarup Nayak, junior pursuing Computer Science and Engineering at the Ohio State University."
-sidebar:
-  - title: "Education"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "The Ohio State University"
-  - text: "BS Computer Science Engineering"
-  - title: " "
-    text: " "
+author_profile: true
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

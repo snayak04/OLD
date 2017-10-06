@@ -84,8 +84,8 @@ analytics:
 # Site Author
 author:
   name             : "Swarup Nayak"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "http://placehold.it/350x250"
+  bio              : "The Ohio State University"
   location         : "Columbus, OH"
   email            : "snayak04.96@gmail.com"
   uri              :
