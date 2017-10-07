@@ -3,7 +3,7 @@ permalink: /about/
 excerpt: "Swarup Nayak, junior pursuing Computer Science and Engineering at the Ohio State University."
 author_profile: true
 title: About Me
-social-share: false
+social_share: false
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
