@@ -16,6 +16,7 @@ gallery:
 ---
 
 I'm a regular guy, with high aspiration... 
+
 Just like every sensible person, I want to develop my skills and be the best version of myself. I spend most of my free time on YouTube, Reddit, and playing sports. I also enjoy in leadership opportunities and am always involved in somekind of organization/ club. I also have a lot of ongoing online classses that I also go through when I can digest more information, which are usually in the weekends. 
 
 
